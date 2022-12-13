@@ -8,7 +8,7 @@ I am a Data Scientist passionate about building ML solutions that scale and help
 
 Throughout my career, I have worked across a variety of domains and have worked on systems, services, and platforms that socres on million records annually; and have worked at companies like Onmobile, Vserv, Accenture etc. I have expertise of Online Advertising, Telecom/marketing and Services/Operations domain.
 
-I hold a Master's in Statsitics from IIT-Bombay, specializing in Applied Statistics & Informatics.
+I hold a Master's in Statsitics from **IIT-Bombay**, specializing in **Applied Statistics & Informatics**.
 
 Tech stack:
 Python(pandas, sklearn, keras, xgboost)
