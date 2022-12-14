@@ -15,4 +15,4 @@ Python(pandas, sklearn, keras, xgboost)
 AWS(S3, EC2, lambda, EKS)
 Algorithms: Liner/Logistic Regression, Random Forest, XGBoost, Deep Neural Networks, Sequential Neural Network(RNN, LSTM)
 
-I mentor aspiring data scientists to gain skill that help them land and succeed data science field. Contact me on kuberbhu<at>gmail.com if you're interested in joining.
+I mentor aspiring data scientists to gain skill that help them land and succeed data science field. Book me on [topmate](https://topmate.io/kuber) if you're interested in joining.
